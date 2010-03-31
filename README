@@ -1,0 +1,6 @@
+This script takes 2 paramters on the command line.
+The 'from-dir' where all the .jpg or .avi files are located, and a 'to-dir'
+where all files will be copied to.
+
+The script creates a "time-based" directory structure just like
+[http://f-spot.org F-Spot] does.
